@@ -1,0 +1,12 @@
+@media screen and (min-width: 1024px)  {
+    .about {
+      display: flex;
+      flex-direction: row-reverse;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .about .img {
+        margin: 0;
+        margin-right: 3rem;
+    }
+}

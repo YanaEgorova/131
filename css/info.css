@@ -1,0 +1,11 @@
+@media screen and (min-width: 1024px)  {
+  .info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .info .img {
+      margin: 0;
+      margin-left: 3rem;
+  }
+}
